@@ -1,1 +1,1 @@
-# onchain-credential-aggregator
+# learning-history-aggregator
